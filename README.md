@@ -1,3 +1,7 @@
+Author: Vince Pamolarco
+John Jay College of Criminal Justice
+Computer Science & Information Security, BS '23
+
 - [OVERVIEW](#overview)
 - [Notes Overview](#notes-overview)
 
